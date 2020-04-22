@@ -1,0 +1,93 @@
+
+
+body{
+	text-align: center;
+	padding-top: 0;
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	padding-top: 0;
+	font-family: cursive;
+
+}
+
+.heading{
+	margin-top: 0;
+	padding-top: 80px;
+}
+
+.top-container{
+	font-family: 'Permanent Marker', cursive;
+	background-color: cyan;	
+
+}
+.middle-container{
+ color:#16817a;
+
+}
+.profile-picture{
+	height: 200px;
+	width: 200px;
+}
+.code-photo{
+	float:right;
+}
+
+.sports-picture{
+	height: 120px;
+	width: 120px;
+	float: left;
+	margin-right: 50px;
+}
+.skill-row{
+	width: 50%;
+	margin: auto;
+	padding: 50px;
+	text-decoration-color: green;
+	letter-spacing: 1px;
+	color: #639a67;
+	text-align: left;
+
+}
+.mid-heading{
+	color: #116979;
+}
+
+.achievements{
+	height: 120px;
+	width: 120px;
+	float:right;
+}
+
+.top-cloud{
+position: absolute;
+top:40px;
+right: 300px;
+}
+.bottom-cloud{
+position: absolute;
+left: 260px;
+}
+
+.horizontal-line{
+	    border: dotted;
+   
+    width: 10%;
+    color: #0af60a;
+}
+.bottom-container{
+	background-color: #00bcd4;
+		padding-top: 20px;
+}
+
+.bottom-line{
+	padding-top: 10px;
+	color: #EAF6F6;
+	padding-bottom: 50px;
+	margin-bottom: 0px;
+}
+
+
+
+
